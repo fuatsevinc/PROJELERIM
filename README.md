@@ -40,6 +40,7 @@
 [7- Team Members Page](http://www.fuatsevinc.com)| 7- Team Members Page		 |![Calculator](./img/CALCULATOR.gif)
 
 
+
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [8- Bootsrap Home Page](http://www.fuatsevinc.com)| 8- Bootsrap Home Page		 |![Digital_clock](./img/clock.gif)
