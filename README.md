@@ -1,187 +1,83 @@
-# My projects
+# PROJELERIM – My Projects Portfolio
 
+> A curated collection of projects built with HTML/CSS, JavaScript, React, and Django.
 
+---
 
-## HTML CSS
-<hr>
+## About
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[1. Survey Form](http://www.fuatsevinc.com)| 1- Survey Form	 |![websitem](./img/websitem.gif)
+This repository serves as a portfolio index showcasing all the projects developed by [fuatsevinc](https://github.com/fuatsevinc) during learning and practice. Projects are organized by technology stack.
 
+---
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[2- Netflix Page](http://www.fuatsevinc.com)| 2- Netflix Page	 |![Calculator](./img/CALCULATOR.gif)
+## HTML / CSS Projects
 
+| # | Project Name | Technologies |
+|---|---|---|
+| 1 | Survey Form | HTML5, CSS3 |
+| 2 | Netflix Page Clone | HTML5, CSS3 |
+| 3 | Google Landing Page | HTML5, CSS3 |
+| 4 | Parallax Website | HTML5, CSS3 |
+| 5 | Clarusway Website Design | HTML5, CSS3 |
+| 6 | Checkout Form | HTML5, CSS3 |
+| 7 | Team Members Page | HTML5, CSS3 |
+| 8 | Bootstrap Home Page | HTML5, Bootstrap |
+| 9 | Bootstrap School Website | HTML5, Bootstrap |
+| 10 | SASS Profile Website | HTML5, CSS3, SASS |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[3- Google Landig Page](http://www.fuatsevinc.com)| 3- Google Landig Page 	 |![Digital_clock](./img/clock.gif)
+---
 
+## JavaScript Projects
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[4- Parallax Webseite](http://www.fuatsevinc.com)| 4- Parallax Webseite		 |![websitem](./img/websitem.gif)
+| # | Project Name | Technologies |
+|---|---|---|
+| 1 | Find the Number | Vanilla JavaScript |
+| 2 | To-Do App | Vanilla JavaScript |
+| 3 | Hangman Game | Vanilla JavaScript |
+| 4 | Lottery Game | Vanilla JavaScript |
+| 5 | Digital Clock | Vanilla JavaScript |
+| 6 | iOS Calculator | Vanilla JavaScript |
+| 7 | Checkout Page | JavaScript, HTML/CSS |
+| 8 | Movie Seat App | JavaScript, HTML/CSS |
+| 9 | Weather App | JavaScript, API |
+| 10 | Algorithm Tasks | Vanilla JavaScript |
 
+---
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[5- Clarusway Website Design](http://www.fuatsevinc.com)| 5- Clarusway Website Design		 |![Digital_clock](./img/clock.gif)
+## React Projects
 
+| # | Project Name | Technologies |
+|---|---|---|
+| 1 | Tour Places | React |
+| 2 | Language Cards | React |
+| 3 | Random User | React, API |
+| 4 | Task Tracker | React |
+| 5 | Recipe App | React, API |
+| 6 | Movie App | React, API |
+| 7 | Blog App | React |
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[6- Checkout Form](http://www.fuatsevinc.com)| 6- Checkout Form	 |![websitem](./img/websitem.gif)
+---
 
+## Django Projects
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[7- Team Members Page](http://www.fuatsevinc.com)| 7- Team Members Page		 |![Calculator](./img/CALCULATOR.gif)
+| # | Project Name | Technologies |
+|---|---|---|
+| 1 | Django Project 1 | Python, Django |
+| 2 | Django Project 2 | Python, Django |
+| 3 | Django Project 3 | Python, Django |
+| 4 | Django Project 4 | Python, Django |
+| 5 | Django Project 5 | Python, Django |
+| 6 | Django Project 6 | Python, Django |
+| 7 | Django Project 7 | Python, Django |
+| 8 | Django Project 8 | Python, Django |
 
+---
 
+## Contact
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[8- Bootsrap Home Page](http://www.fuatsevinc.com)| 8- Bootsrap Home Page		 |![Digital_clock](./img/clock.gif)
+- GitHub: [fuatsevinc](https://github.com/fuatsevinc)
+- Website: [www.fuatsevinc.com](https://www.fuatsevinc.com)
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[9- Bootsrap School Webseite](http://www.fuatsevinc.com)| 9- Bootsrap School Webseite		 |![websitem](./img/websitem.gif)
+---
 
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[10- SASS Profile Webseite](http://www.fuatsevinc.com)| 10- SASS Profile Webseite  |![Calculator](./img/CALCULATOR.gif)
-
-
-
-## JAVASCRIPT
-<hr>
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[1- Find the Number](http://www.fuatsevinc.com)| 1- Find the Number	 	 |![Digital_clock](./img/clock.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[2- To-Do App](http://www.fuatsevinc.com)| 2- To-Do App		 |![websitem](./img/websitem.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[3- Hangman Game](http://www.fuatsevinc.com)| 3- Hangman Game			 |![Calculator](./img/CALCULATOR.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[4- Lottery Game](http://www.fuatsevinc.com)| 4- Lottery Game 	 |![Digital_clock](./img/clock.gif)
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[5- Digital Clock](http://www.fuatsevinc.com)| 5- Digital Clock	 |![websitem](./img/websitem.gif)
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[6- IOS Calculator](http://www.fuatsevinc.com)| 6- IOS Calculator		 |![Calculator](./img/CALCULATOR.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[7- Checkout Page](http://www.fuatsevinc.com)| 7- Checkout Page	 	 |![Digital_clock](./img/clock.gif)
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[8- Movie Seat App](http://www.fuatsevinc.com)| 8- Movie Seat App		 |![websitem](./img/websitem.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[9- Weather App](http://www.fuatsevinc.com)| 9- Weather App		 |![Calculator](./img/CALCULATOR.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[10- Other Algorithm Tasks](http://www.fuatsevinc.com)| 10- Other Algorithm Tasks		 |![Digital_clock](./img/clock.gif)
-
-
-## REACT
-<hr>
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[1- Tour Places	](http://www.fuatsevinc.com)| 1- Tour Places	 |![websitem](./img/websitem.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[2- Language Cards](http://www.fuatsevinc.com)| 2- Language Cards		 |![Calculator](./img/CALCULATOR.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[3- Random User](http://www.fuatsevinc.com)| 3- Random User	 	 |![Digital_clock](./img/clock.gif)
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[4- Task Tracker](http://www.fuatsevinc.com)| 4- Task Tracker		 |![websitem](./img/websitem.gif)
-
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[5- Recipe App](http://www.fuatsevinc.com)| 5- Recipe App		 |![Calculator](./img/CALCULATOR.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[6- Movie App](http://www.fuatsevinc.com)| 6- Movie App		 |![Digital_clock](./img/clock.gif)
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[7- Blog App](http://www.fuatsevinc.com)| 7- Blog App	 |![websitem](./img/websitem.gif)
-
-
-## DJANGO
-<hr>
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[1- DJANGO PROJE 1](http://www.fuatsevinc.com)| 1- DJANGO PROJE 1	 |![Calculator](./img/CALCULATOR.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[2- DJANGO PROJE 2 ](http://www.fuatsevinc.com)| 2- DJANGO PROJE 2 	 |![Digital_clock](./img/clock.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[3- DJANGO PROJE 3	](http://www.fuatsevinc.com)| 3- DJANGO PROJE 3	 |![Calculator](./img/CALCULATOR.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[4- DJANGO PROJE 4](http://www.fuatsevinc.com)| 4- DJANGO PROJE 4	 |![Digital_clock](./img/clock.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[5- DJANGO PROJE 5](http://www.fuatsevinc.com)| 5- DJANGO PROJE 5	 |![Calculator](./img/CALCULATOR.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[6- DJANGO PROJE 6](http://www.fuatsevinc.com)| 6- DJANGO PROJE 6 	 |![Digital_clock](./img/clock.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[7- DJANGO PROJE 7](http://www.fuatsevinc.com)| 7- DJANGO PROJE 7	 |![Calculator](./img/CALCULATOR.gif)
-
-
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[8- DJANGO PROJE 8](http://www.fuatsevinc.com)| 8- DJANGO PROJE 8	 |![Digital_clock](./img/clock.gif)
+Developed by [fuatsevinc](https://github.com/fuatsevinc)
